@@ -5,8 +5,8 @@ Based on Andrej Karpathy's LLM Wiki pattern.
 
 ## Purpose
 
-This wiki is a structured, interlinked knowledge base for planning a trip to Japan.
-Claude maintains the wiki. The human curates sources, asks questions, and guides the analysis.
+This wiki is a structured, interlinked knowledge base covering documentation of Nozomi Networks and Claroty.
+An AI maintains the wiki. The human curates sources, asks questions, and guides the analysis.
 
 ## Folder structure
 

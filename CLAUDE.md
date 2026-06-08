@@ -1,6 +1,6 @@
 # LLM Wiki
 
-A personal knowledge base maintained by Claude Code.
+A personal knowledge base maintained by an AI.
 Based on Andrej Karpathy's LLM Wiki pattern.
 
 ## Purpose

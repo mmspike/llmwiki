@@ -13,8 +13,8 @@ An AI maintains the wiki. The human curates sources, asks questions, and guides 
 ```
 raw/          -- source documents (immutable -- never modify these)
 wiki/         -- markdown pages maintained by Claude
-wiki/index.md -- table of contents for the entire wiki
-wiki/log.md   -- append-only record of all operations
+index.md      -- table of contents for the entire wiki
+log.md        -- append-only record of all operations
 ```
 
 ## Ingest workflow

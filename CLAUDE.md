@@ -92,4 +92,4 @@ When the user asks you to lint or audit the wiki:
 - Always update `index.md` and `log.md` after changes
 - Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
 - Write in clear, plain language
-- When uncertain about how to categorize something, ask the user
+- When uncertain about how to categorize something, ask the user if you can

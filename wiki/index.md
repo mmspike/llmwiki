@@ -16,7 +16,7 @@ This is the content-oriented catalog of every page in the LLMWiki. Organized by 
 - [[HTML Injection]] - A type of vulnerability where malicious HTML code is injected into a web application, often leading to phishing or redirect attacks.
 - [[Stored XSS]] - A subset of Cross-Site Scripting (XSS) where malicious scripts are permanently stored on the target server and executed when accessed by users.
 - [[CWE-79]] - Improper Neutralization of Input During Web Page Generation, commonly known as Cross-Site Scripting (XSS).
-- [[Guardian/CMC]] - Nozomi Networks' product suite for industrial cybersecurity, including Guardian and Central Management Console (CMC).
+- [[Guardian-CMC]] - Nozomi Networks' product suite for industrial cybersecurity, including Guardian and Central Management Console (CMC).
 - [[Nozomi Networks]] - A provider of OT and IoT security solutions, specializing in industrial control systems (ICS) and operational technology (OT) environments.
 
 ---

@@ -1,4 +1,4 @@
-# NN-2026:7-01 - HTML injection in Smart Polling in Guardian/CMC before 26.1.0
+# NN-2026:7-01 - HTML injection in Smart Polling in Guardian_CMC before 26.1.0
 
 **Source**: [Nozomi Networks Security Bulletin](https://security.nozominetworks.com/NN-2026:7-01/)
 **CSAF**: [Link](https://security.nozominetworks.com/csaf/2026/nn-2026_7-01.json)
@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-A **Stored HTML Injection** vulnerability was discovered in the **Smart Polling functionality** of **Guardian/CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **limited privileges** to push malicious remote strategies containing **HTML tags** through the sync. When a victim views the affected remote strategy in the **Smart Polling functionality**, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
+A **Stored HTML Injection** vulnerability was discovered in the **Smart Polling functionality** of **Guardian-CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **limited privileges** to push malicious remote strategies containing **HTML tags** through the sync. When a victim views the affected remote strategy in the **Smart Polling functionality**, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
 
 ---
 
@@ -52,7 +52,7 @@ A **Stored HTML Injection** vulnerability was discovered in the **Smart Polling 
 ## Related Concepts
 - [[HTML Injection]]
 - [[CWE-79]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

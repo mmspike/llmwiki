@@ -27,9 +27,9 @@
 ---
 
 ## Real-World Examples
-- [[NN-2026:5-01 - HTML injection in Users in Guardian/CMC before 26.1.0]]: HTML injection in the Users functionality of Guardian/CMC.
-- [[NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian/CMC before 26.1.0]]: HTML injection in the Schedule Restore Archive functionality.
-- [[NN-2026:7-01 - HTML injection in Smart Polling in Guardian/CMC before 26.1.0]]: HTML injection in Smart Polling.
+- [[NN-2026:5-01 - HTML injection in Users in Guardian_CMC before 26.1.0]]: HTML injection in the Users functionality of Guardian-CMC.
+- [[NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian_CMC before 26.1.0]]: HTML injection in the Schedule Restore Archive functionality.
+- [[NN-2026:7-01 - HTML injection in Smart Polling in Guardian_CMC before 26.1.0]]: HTML injection in Smart Polling.
 
 ---
 
@@ -53,7 +53,7 @@
 ## Related Concepts
 - [[Stored XSS]]
 - [[CWE-79]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

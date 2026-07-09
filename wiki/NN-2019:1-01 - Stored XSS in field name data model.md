@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-A **Stored XSS (Cross-Site Scripting)** vulnerability was discovered in the **field name data model** of **Guardian/CMC** versions before **v19.0.4**. This vulnerability allows an attacker with **admin access** to inject malicious JavaScript code into the field name when adding a new column to the data model section. The injected code is later executed in the environment section (e.g., asset view) by legitimate users, enabling unauthorized actions on their behalf.
+A **Stored XSS (Cross-Site Scripting)** vulnerability was discovered in the **field name data model** of **Guardian-CMC** versions before **v19.0.4**. This vulnerability allows an attacker with **admin access** to inject malicious JavaScript code into the field name when adding a new column to the data model section. The injected code is later executed in the environment section (e.g., asset view) by legitimate users, enabling unauthorized actions on their behalf.
 
 ---
 
@@ -50,7 +50,7 @@ A **Stored XSS (Cross-Site Scripting)** vulnerability was discovered in the **fi
 ## Related Concepts
 - [[Stored XSS]]
 - [[CWE-79]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

@@ -1,4 +1,4 @@
-# NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian/CMC before 26.1.0
+# NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian_CMC before 26.1.0
 
 **Source**: [Nozomi Networks Security Bulletin](https://security.nozominetworks.com/NN-2026:6-01/)
 **CSAF**: [Link](https://security.nozominetworks.com/csaf/2026/nn-2026_6-01.json)
@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-A **Stored HTML Injection** vulnerability was discovered in the **Schedule Restore Archive functionality** of **Guardian/CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **administrative privileges** to define a malicious restore schedule containing **HTML tags**. When a victim views the affected schedule, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
+A **Stored HTML Injection** vulnerability was discovered in the **Schedule Restore Archive functionality** of **Guardian-CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **administrative privileges** to define a malicious restore schedule containing **HTML tags**. When a victim views the affected schedule, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
 
 ---
 
@@ -53,7 +53,7 @@ A **Stored HTML Injection** vulnerability was discovered in the **Schedule Resto
 ## Related Concepts
 - [[HTML Injection]]
 - [[CWE-79]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

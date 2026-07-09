@@ -1,4 +1,4 @@
-# NN-2026:5-01 - HTML injection in Users in Guardian/CMC before 26.1.0
+# NN-2026:5-01 - HTML injection in Users in Guardian_CMC before 26.1.0
 
 **Source**: [Nozomi Networks Security Bulletin](https://security.nozominetworks.com/NN-2026:5-01/)
 **CSAF**: [Link](https://security.nozominetworks.com/csaf/2026/nn-2026_5-01.json)
@@ -8,7 +8,7 @@
 ---
 
 ## Overview
-A **Stored HTML Injection** vulnerability was discovered in the **Users functionality** of **Guardian/CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **administrative privileges** to create a malicious user whose username contains **HTML tags**. When a victim attempts to delete a group containing the affected user, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
+A **Stored HTML Injection** vulnerability was discovered in the **Users functionality** of **Guardian-CMC** versions before **v26.1.0**. This vulnerability arises due to **improper validation of an input parameter**, allowing an authenticated user with **administrative privileges** to create a malicious user whose username contains **HTML tags**. When a victim attempts to delete a group containing the affected user, the injected HTML renders in their browser, enabling **phishing** and **open redirect attacks**.
 
 ---
 
@@ -54,7 +54,7 @@ A **Stored HTML Injection** vulnerability was discovered in the **Users function
 ## Related Concepts
 - [[HTML Injection]]
 - [[CWE-79]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

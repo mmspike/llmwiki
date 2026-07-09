@@ -23,9 +23,9 @@ When an application includes **untrusted data** in a web page without proper val
 3. **DOM-Based XSS**: Malicious input is injected into the Document Object Model (DOM) of a webpage, typically through JavaScript manipulation.
 4. **HTML Injection**: Malicious HTML tags are injected into a webpage, leading to phishing or redirect attacks.
    - Examples: 
-     - [[NN-2026:5-01 - HTML injection in Users in Guardian/CMC before 26.1.0]]
-     - [[NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian/CMC before 26.1.0]]
-     - [[NN-2026:7-01 - HTML injection in Smart Polling in Guardian/CMC before 26.1.0]]
+     - [[NN-2026:5-01 - HTML injection in Users in Guardian_CMC before 26.1.0]]
+     - [[NN-2026:6-01 - HTML injection in Schedule Restore Archive in Guardian_CMC before 26.1.0]]
+     - [[NN-2026:7-01 - HTML injection in Smart Polling in Guardian_CMC before 26.1.0]]
 
 ---
 
@@ -72,7 +72,7 @@ echo "<div>" . htmlspecialchars($userInput, ENT_QUOTES, 'UTF-8') . "</div>";
 ## Related Concepts
 - [[HTML Injection]]
 - [[Stored XSS]]
-- [[Guardian/CMC]]
+- [[Guardian-CMC]]
 - [[Nozomi Networks]]
 
 ---

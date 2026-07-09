@@ -1,7 +1,0 @@
-- [Home](./Home.md)
-- Category1
-  - [Page1](./Category1/Page1.md)
-  - [Page2](./Category1/Page2.md)
-- Category2
-  - [Page1](./Category2/Page1.md)
-  - [Page2](./Category2/Page2.md)
